@@ -1,0 +1,11 @@
+1.3
+ * Improved .NET assembly enumeration timeout handling
+
+1.2
+ * Fixed inaccurate stack traces for certain .NET programs
+
+1.1
+ * Added managed symbol resolution for thread stacks
+
+1.0
+ * Initial release
